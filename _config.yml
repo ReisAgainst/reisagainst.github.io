@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hae paradoxa illi,
   admirabilia dicamus
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://reis.space" # the base hostname & protocol for your site
 twitter_username: ReisAgainst
 #github_username:  jekyll
 
