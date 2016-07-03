@@ -221,18 +221,16 @@ Ja, dann ist meine Antwort auch völlig unproblematisch
 
 >Ich hatte eigentlich auch noch mehr fragen, nämlich zur poetischen Lesart
 
->1.  In dem Luhmann-Zitat: entspricht poetischer Text der Lyrik? Oder wie stehen die genau im Verhältnis? Poetische
+>
+1.  In dem Luhmann-Zitat: entspricht poetischer Text der Lyrik? Oder wie stehen die genau im Verhältnis? Poetische
 texte der weitere, Lyrik der engere Begriff?
-
->2. Du sagst: Die poetische Lesart wird möglich. Da meinst du konkret die poetische Lesart auch nicht als „Lyrik“
+2. Du sagst: Die poetische Lesart wird möglich. Da meinst du konkret die poetische Lesart auch nicht als „Lyrik“
 gekennzeichneter Texte, oder? Also konkret bspw. solchen Texten, die wir als Buch gedruckt, in anderen Abteilungen
 fänden.
-
->3. Bleibt mir unklar wie das mit der Zufälligkeit des Schreibens zusammenhängt: weil doch gerade die Lyrik durch eine
+3. Bleibt mir unklar wie das mit der Zufälligkeit des Schreibens zusammenhängt: weil doch gerade die Lyrik durch eine
 bewußte Wortwahl ausgezeichnet wird (in dem Zitat). Dann würde ich die Texte doch gerade nicht lesen, als wären die
 Worte zufällig (und beliebig? Oder meint zufällig gerade nicht beliebig?)
-
->4. Jetzt sagst du: in der poetischen Lesart schreiben. Aber wie ist nun das möglich?
+4. Jetzt sagst du: in der poetischen Lesart schreiben. Aber wie ist nun das möglich?
 
 
 *@ReisAgainst*
