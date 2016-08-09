@@ -57,3 +57,11 @@ Die poetische Lesart unter Mitbeachtung der Zufälligkeit des eigenen Schreibens
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Leserinnen konzeptueller Lyrik sind die Avantgarde der Netz-Kommunikation. <a href="https://t.co/BhEk7iI6ZY">https://t.co/BhEk7iI6ZY</a></p>&mdash; Christina Dongowski (@TiniDo) <a href="https://twitter.com/TiniDo/status/748140954264215552">June 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Weiter bei <a href="http://www.mulus.science/2015/07/10/Unspezifitat-und-Risiko-komplexer-Kompensation.html">SCIENTIÆ MULORUM: Unspezifität und Risiko komplexer Kompensation</a>
+
+Weiter bei <a href="http://www.reis.space/jekyll/update/2016/08/09/VR.html">Critical Otter Studies: Virtual Reality - Was hinter dem Bildschirm wartet</a>
+
+oder
+
+<a href="http://www.reis.space/jekyll/update/2016/06/30/nachbesprechung-kompensation.html">Critical Otter Studies: Nachbesprechung. Kompensation und poetisches Lesen
