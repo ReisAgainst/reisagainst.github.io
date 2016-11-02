@@ -16,5 +16,8 @@ url: "http://reis.space" # the base hostname & protocol for your site
 twitter_username: ReisAgainst
 #github_username:  jekyll
 
+# Google services
+google_analytics: UA-82255461-1
+
 # Build settings
 markdown: kramdown
