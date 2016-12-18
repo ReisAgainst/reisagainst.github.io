@@ -26,7 +26,7 @@ categories: jekyll update
 
   		6.1.1 So sagt man, das Grundgesetz enthalte weitere Gesetze. So tief man dann aber in seine eigene Ausgabe des Buches schaut, wird man kein BGB darin entdecken.
 
-7. Weil es Pflicht gibt, haben Regeln einen Sinn
+			7. Weil es Pflicht gibt, haben Regeln einen Sinn
 
   	7.1 Das Aufstellen von Regeln virtualisiert eine Pflicht. (Regeln setzen erschafft die Pflicht, die noch sein kann)
 
