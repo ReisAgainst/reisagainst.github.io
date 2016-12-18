@@ -23,6 +23,7 @@ categories: jekyll update
 
   		6.1 Sie enthält sie nicht insofern, als Regeln aus ihr deduziert werden könnten
 
+
   		6.1.1 So sagt man, das Grundgesetz enthalte weitere Gesetze. So tief man dann aber in seine eigene Ausgabe des Buches schaut, wird man kein BGB darin entdecken.
 
 7. Weil es Pflicht gibt, haben Regeln einen Sinn
