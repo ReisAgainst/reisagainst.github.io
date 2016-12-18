@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fairness. Über Wahrheit und Pflicht im unlogischen Sinne."
-date:   2016-12-18 21:16:22 +0200
+date:   2016-12-18 21:20:22 +0200
 categories: jekyll update
 ---
 
@@ -21,20 +21,22 @@ categories: jekyll update
 
 6. Pflicht enthält Regeln
 
-  6.1 Sie enthält sie nicht insofern, als Regeln aus ihr deduziert werden könnten
+  		6.1 Sie enthält sie nicht insofern, als Regeln aus ihr deduziert werden könnten
 
-  6.1.1 So sagt man, das Grundgesetz enthalte weitere Gesetze. So tief man dann aber in seine eigene Ausgabe des Buches schaut, wird man kein BGB darin entdecken.
+  		6.1.1 So sagt man, das Grundgesetz enthalte weitere Gesetze. So tief man dann aber in seine eigene Ausgabe des Buches schaut, wird man kein BGB darin entdecken.
 
 7. Weil es Pflicht gibt, haben Regeln einen Sinn
 
-  7.1 Das Aufstellen von Regeln virtualisiert eine Pflicht. (Regeln setzen erschafft die Pflicht, die noch sein kann)
+  	7.1 Das Aufstellen von Regeln virtualisiert eine Pflicht. (Regeln setzen erschafft die Pflicht, die noch sein kann)
 
-  7.2 Die Möglichkeit einer Pflicht ist die Möglichkeit von Regeln.
+  	7.2 Die Möglichkeit einer Pflicht ist die Möglichkeit von Regeln.
 
-  7.3 Pflicht ist erst das Ziel von Regeln, dann ihre Bedingung.
+  	7.3 Pflicht ist erst das Ziel von Regeln, dann ihre Bedingung.
 
 8. Vorrausgesetzt ist, dass
+
 	a. Fairness möglich ist
+
 	b. Man, läuft das Spiel bereits, nicht ohne weiteres von Regeln auf neue Regeln kommt.
 	(Regel der deduktiven Regelsysteme)
 
