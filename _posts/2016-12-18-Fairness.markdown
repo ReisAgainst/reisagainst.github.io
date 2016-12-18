@@ -7,7 +7,8 @@ categories: jekyll update
 
 1. Das perfide am Wahrheit-oder-Pflicht-Spiel ist, dass man zur Wahrheit verpflichten kann, von Wahrheit aber nicht zu Pflicht gelangt
 
-	1.1 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="de" dir="ltr"><a href="https://twitter.com/ReisAgainst">@ReisAgainst</a> &quot;sag dass du in die küche gehst und uns allen bier holst&quot;</p>&mdash; Krawall-Rabauke (@ekelias) <a href="https://twitter.com/ekelias/status/774968604349587456">September 11, 2016</a></blockquote>
+	1.1
+	<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="de" dir="ltr"><a href="https://twitter.com/ReisAgainst">@ReisAgainst</a> &quot;sag dass du in die küche gehst und uns allen bier holst&quot;</p>&mdash; Krawall-Rabauke (@ekelias) <a href="https://twitter.com/ekelias/status/774968604349587456">September 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 2. Kausal ist das so: “Wahrheit” funktioniert, weil man sich bereits zum Spiel verpflichtet hat. Der vom Spiel aufgetane Pflichtbereich wird in diesem Fall eingegrenzt.
