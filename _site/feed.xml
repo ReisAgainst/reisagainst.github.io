@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical Otter Studies</title>
+    <description>Hae paradoxa illi, admirabilia dicamus
+</description>
+    <link>http://reis.space/</link>
+    <atom:link href="http://reis.space/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 14 Jan 2017 22:44:11 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Jan 2017 22:44:11 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Fairness. Über Wahrheit und Pflicht im unlogischen Sinne.</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Das perfide am Wahrheit-oder-Pflicht-Spiel ist, dass man zur Wahrheit verpflichten kann, von Wahrheit aber nicht zu Pflicht gelangt&lt;/p&gt;
+
+    &lt;p&gt;1.1&lt;/p&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/ReisAgainst&quot;&gt;@ReisAgainst&lt;/a&gt; &amp;quot;sag dass du in die küche gehst und uns allen bier holst&amp;quot;&lt;/p&gt;&amp;mdash; Krawall-Rabauke (@ekelias) &lt;a href=&quot;https://twitter.com/ekelias/status/774968604349587456&quot;&gt;September 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kausal ist das so: “Wahrheit” funktioniert, weil man sich bereits zum Spiel verpflichtet hat. Der vom Spiel aufgetane Pflichtbereich wird in diesem Fall eingegrenzt.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;„Pflicht“ (P2) ist eine Verdoppelung der Mitspielpflicht P. Der Bereich ist offen.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;„Sag, dass du x“ braucht allein die Mitspielpflicht. Der Wahrmacher muss anstelle von Ehrlichkeit eine Handlung sein.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ist die Regel „Dein nächster Satz muss wahr sein“, wäre unfair eine andere Wahrheit zu sagen. Auch unfair: Nichterfüllbares „sag, dass du x“ - Ein Foul, das auch bei „Pflicht“ nicht erlaubt wäre, in das es überführt wurde&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pflicht enthält Regeln&lt;/p&gt;
+
+    &lt;p&gt;6.1 Sie enthält sie nicht insofern, als Regeln aus ihr deduziert werden könnten&lt;/p&gt;
+
+    &lt;p&gt;6.1.1 So sagt man, das Grundgesetz enthalte weitere Gesetze. So tief man dann aber in seine eigene Ausgabe des Buches schaut, wird man kein BGB darin entdecken.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Weil es Pflicht gibt, haben Regeln einen Sinn&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+  	7.1 Das Aufstellen von Regeln virtualisiert eine Pflicht. (Regeln setzen erschafft die Pflicht, die noch sein kann)
+
+  	7.2 Die Möglichkeit einer Pflicht ist die Möglichkeit von Regeln.
+
+  	7.3 Pflicht ist erst das Ziel von Regeln, dann ihre Bedingung.
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Vorrausgesetzt ist, dass&lt;/p&gt;
+
+    &lt;p&gt;a. Fairness möglich ist&lt;/p&gt;
+
+    &lt;p&gt;b. Man, läuft das Spiel bereits, nicht ohne weiteres von Regeln auf neue Regeln kommt.
+ (Regel der deduktiven Regelsysteme)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Für Regeländerungen im laufenden Spiel kann es keine Regel geben.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;9.1 Bei Regeln für ein noch zu spielendes Spiel muss das Fairness-Prinzip unter dem Schleier des Nichtwissens stehen.&lt;/p&gt;
+
+&lt;p&gt;9.1.1 Das ist der primitive Fairness-Begriff.&lt;/p&gt;
+
+&lt;p&gt;9.1.2 Fairness (primitiv) kommt zustande, wenn Chancenungleichheit hypothetisch, damit ausgeklammert ist.&lt;/p&gt;
+
+&lt;p&gt;9.2 Im laufenden Spiel sind die Chancen bereits verteilt.&lt;/p&gt;
+
+&lt;p&gt;9.2.1 Die Chancenungleichheit ist real(isiert), aber unscharf&lt;/p&gt;
+
+&lt;p&gt;9.2.2 Fairness führt gezielt Unschärfe in die Situation ein.&lt;/p&gt;
+
+&lt;p&gt;9.2.3 Fairness kann damit effektiver wirken als eine Stoppregel. (zB. „Keine Regeln ändern“, oder „nur von allen bekannten Regeln ausgehen“)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ein Regelzusatz ist destruktiv (&lt;em&gt;game-breaking&lt;/em&gt;) oder/und unfair, wenn vorige Regeln unmittelbar korrumpiert werden&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;10.1 Beispiel: Bei Wahrheit etwas wahres sagen, das nichts mit der Frage zu tun hat, die man gestellt bekommt.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;„Wahrheit oder Pflicht“ ist ein gutes Beispiel, weil es sehr wenige Regeln hat, und sich weiteres aus Fairness ergibt&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;(ad3) Pflichtverdoppelung ist nicht reduzierbar.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;12.1 Funktional enthält die Mitspielpflicht bei „Wahrheit oder Pflicht“ im Falle von Pflicht, einer neuen Pflicht nachzugehen.&lt;/p&gt;
+
+&lt;p&gt;12.2 Diese Pflicht ist (im Gegensatz zur Mitspielpflicht) ergebnisoffen – prinzipiell kann alles gefordert werden.&lt;/p&gt;
+
+&lt;p&gt;12.3 Sie (p2) ist aber nur durch die erste, die Mitspielpflicht p möglich.&lt;/p&gt;
+
+&lt;p&gt;12.3.1 Das heißt: Durch das Einrichten von Redundanz ist Flexibilisierung möglich.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fairness ist das pflichtlose Einhalten einer Regel&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;13.1 Fairness führt Pseudoregel R# ein&lt;/p&gt;
+
+&lt;p&gt;13.2 R# kann in Form einer Regeländerung in ein R fixiert werden.&lt;/p&gt;
+
+&lt;p&gt;13.3 Für eine Fairness-Prüfung reicht die Prüfung einer Regeleinhaltung nicht aus.&lt;/p&gt;
+
+&lt;p&gt;13.3.1 Dass ein Verhalten B(x) fair F(x) ist, bedeutet nicht, dass ¬B(x) (Unterlassung) unfair ¬F(x) ist.
+	(B(x) → F(x)) → (¬B(x)∨F(x))&lt;/p&gt;
+
+&lt;p&gt;13.3.2 Dass ¬B(x) unfair ist, bedeutet, dass B(x) fair ist (als Regeleinhaltung, oder erweiterte Regeleinhaltung)
+	(¬B(x)→¬F(x)) → (B(x) → F(x))&lt;/p&gt;
+
+&lt;p&gt;13.3.3 Regeleinhaltung R(x) ist immer fair. Einhaltung weiterer Regeln, die fair sind, ist erweiterte Fairness.
+	∀x∀b (B(x)∧F(x) ↔ F(b)
+	∀x∀b (B(x)∧R(x)) ↔ R(b) → F(b)
+	R(b) ∈ R↓
+	für den Regelsatz des gespielten Spiels R↓{R(1),R(2)… }&lt;/p&gt;
+
+&lt;p&gt;13.3.4 „Ich würde einfach lügen. In dem Spiel geht es um’s Lügen“
+	→ Es kann eine Regel für Unfairness geben! ∃b( (R(b)∧¬F(b) )
+	Diese darf aber nicht Teil des Regelsatzes R↓ sein: b ∉ R↓&lt;/p&gt;
+
+&lt;p&gt;13.3.5 b kann nicht fair und ein primärer Regelbruch sein.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Für λb((R(b)∧¬F(b) ) gilt also: b ∉ R↓,
+für den Regelsatz des gespielten Spieles R↓
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;13.3.6 Es gilt also: ¬( R(b)∧¬F(b) )
+	R(b) → F(b)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Das Spiel ist eine Situation, in der die sonst implizite Unterscheidung von Regelkonformität, und -bruch explizit beobachtet wird&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;14.1 Abweichendes Handeln ist die (aber nicht jede) Einführung von R#&lt;/p&gt;
+
+&lt;p&gt;14.2 R# kann auch durch Nicht-Abweichendes Handeln hervorgebracht werden. (Zum Beispiel wird eine Lücke im Regelwerk „gefüllt“, um weiters Handeln zu orientieren)
+ Wir nennen diesen Fall: Reibungslose Fairness&lt;/p&gt;
+
+&lt;p&gt;14.3 R# kann ohne primären Regelverstoß eine Modifizierung der Regeln R↓ bewirken.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;R↓ ist immer unscharf (9.2.2), und zwar nicht allein, weil das Befolgen von Spielregeln trivialerweise bereits Regeln für das Befolgen von Spielregeln voraussetzt usw., sondern weil:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;15.1 das Spielen von echten Menschen gespielt wird, die nie alle Regeln akut bereithalten können. Sie verschwinden von Instruktion zu Gedächtnis zu Spielfähigkeit. Sie entgleiten gleichzeitig hinter das Bewusstsein (Inkorporierung) und heraus (soziales Gedächtnis)&lt;/p&gt;
+
+&lt;p&gt;15.2 man sagen kann, dass Spiele öfter „falsch“ gespielt werden als nicht.&lt;/p&gt;
+
+&lt;p&gt;15.3 Es im Spiel, das, auch wenn man es verlieren kann, kein Wettkampf ist – man also aus den Spielergebnissen außerhalb der Spielsituation selbst nur sehr begrenzt Handlungs-, Status- oder ähnliche Konsequenzen ziehen kann- keine richtende Instanz für Probleme im laufenden Spiel gibt.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Regeln sind deduktive Systeme&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;16.1 Für sie gilt die Regel der deduktiven Regelsysteme (6)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fairness ist die Bruchstelle zwischen deduktivem System und nicht-deduktiver Alterität&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 14 Jan 2017 19:38:22 +0100</pubDate>
+        <link>http://reis.space/jekyll/update/2017/01/14/Fair.html</link>
+        <guid isPermaLink="true">http://reis.space/jekyll/update/2017/01/14/Fair.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Virtual Reality - Was hinter dem Bildschirm wartet</title>
+        <description>&lt;p&gt;Forsetzung von &lt;a href=&quot;http://www.reis.space/jekyll/update/2016/06/30/kompensation.html&quot;&gt;Kompensation und poetisches Lesen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ieet.org/index.php/IEET/more/Edge20160628&quot;&gt;Eliott Edge - How VR Gaming will Wake Us Up to our Fake Worlds&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Es gibt einen einfachen Weg, sich mit Virtual Reality zu beschäftigen: Man bemerkt, wie bereitwillig Leute ihre Realität gegen eine andere tauschen möchten und merkt an, dass alle Realität kontingent sei. Ob symbolisch oder somatisch, egal. So gesehen macht es keinen Unterschied, ob man einer Religion angehört, eine Grenze passiert oder Pokémon jagt. Wenn es denn nichts neues an dieser Realität gibt, wieso dann von Hyperrealität sprechen? Eigentlich sollte Hyperrealität das ausdrücken, was sich einstellt, wenn man für einen Datensatz variable Methoden hat, sie symbolisch anzuordnen. Hyperrealität ist dann in einem vielfältigen Sinne “real” - genauer: vorhanden. Alphabetisch auf einem Regal aufgereihte Akten haben ein Ordnungsprinzip, das bereits “virtuell” in einer groben Verwendung des Wortes sind. Dieser Hinweis auf die Kontingenz des Ordnungsprinzips macht aber noch nicht jedes Bücherregal hyperreal.&lt;/p&gt;
+
+&lt;p&gt;So auch das Beispiel ritualisierter Symbolordnung, beobachtbar am Beispiel des Kirchganges. Mit der Kirche wird eine Ordnung betreten, die sich in einem weiten Sinne aus Sozialisation speist. Auch die Architektur dient der Ermöglichung und Aufrechterhaltung des Rituals. Dies zwar durchaus mit Mitteln, die primär psychologischen Effekten dienen mögen, dennoch reicht dies nicht annähernd zu - es ist für einen Gottesdienst weiterhin deutlich mehr Arbeit am Symbol notwendig. Das deutet darauf, wie mangelhaft dann doch das Stimulieren der Reize durch Architektur und Musik sind. Viel wichtiger sind immer noch die Erziehung zum Gottesdienst, und in diesem die direkten Aufforderungen durch den Priester. Der moderne Gottesdienst setzt viel vorhergehende Sozialisation voraus (stillsitzen, mitsingen, lesen, in der Schlange stehen…), im Gegenzug war der Gottesdienst selbst lange Zeit die Quelle vieler Sozialisationsleistungen für die Gesellschaft.&lt;/p&gt;
+
+&lt;p&gt;Erziehung und Erklärung bedeuten immer auch, dass die Ränder der Regeln unscharf bleiben. In einem gewissen Sinne kann man dem Rahmen immer auch entweichen. Regelbrüche sind gerade, wie man das Spiel lernt. Und eine Kirche lässt sich eben auch durchschreiten, um neben dem Taufbecken Gameboy zu spielen. Das geht. Aber (unscharf) werden doch Maßregelungen passieren, Anweisungen durch Mitglieder der Gemeinschaft (Eingeweihte). Doch genau so sollten wir uns Virtual Reality nicht vorstellen, deren Zugriff auf die Sinne (vorerst visuell und auditiv) total sind. Mit Virtual Reality ist das komplette Einsinken in eine computergenerierte Welt gemeint, mit Augmented Reality ein zusammenführen mit “physischen” Welt. Der Totalzugriff von traditioneller VR auf die Sinne ist offensichtlich, doch auch Augmented Reality (die man genau so gut als Unterkategorie der Virtual Reality sehen kann) kennt keine Zwischenstufen. Was ein AR-Gerät verdunkelt, ist dann unsichtbar. Über welche Geräusche es eigene Töne, vielleicht Gegenschall spielt, das können wir dann nicht hören. Die Regeln werden ohne Kompromiss den Sinnen eingegeben. Sie haben keine grauen Stellen, keine Fransen. Und ebenso total ist auch die Verweigerung der VR. Eine abgeschaltete VR ist fort, aus dem Sinn. Wenn eine der Virtual &lt;em&gt;Realities&lt;/em&gt; abgestellt wird, kann keine Sanktionierung ihrer Regeln aus dem parasozialen Zwielicht steigen.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Imagining, and indeed thought itself is the first, most immediate form of virtual reality (alongside bodily sense data). Similarly, the mind has often been referred to in both Eastern and Western literature as working from ‘images.’ Yet ‘images’ today implies something static, and thought is anything but static. Our mental images move about chaotically, giving the impression of an animation.  Take this analogy one step further and we can easily substitute ‘animations’ with ‘simulations.’  Even ‘reasoning’ is very much the same as simulating.  And simulation, or simulating, quickly becomes analogous to virtual reality.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gerade diese images, dieses &lt;em&gt;imagining&lt;/em&gt; haben eine besondere Unschärfe. Wahrgenommen werden sie als das Gegenstück der sozialen Fransen. Phantasien sind weder steuerbar, noch unausweichlich. Und über sie nachzudenken, der Versuch sie zu beobachten, führt an den Rand des Bewußtseins, das sie hervorbringt. Wegen ihres Überschusses an Inkommunikabilität werden Phantasien radikal verinnerlicht. Diese Verinnerlichung (auch im Sinne eines Einübens) kann VR unterbrechen, indem es den ganzen Input veräußerlicht. Die Welt, ihre Interpretation und ihre Alternative werden als von außen kommend erlebt. Mit dieser VR wird dann interagiert, die Psyche wird an- und eingespannt auf ein in besonderem Maße unausweichliches (weil in besonderem Maße ausweichliches) Feld. Diese Veräußerlichung kann wiederum auch die Rolle der Psyche als Innenseite, das Subjekt in Form von Innerlichkeit destabilisieren.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Maybe VR will give us the psychic breathing room necessary to re-examine what are fundamentally our creations — currency for instance. Breathing room for a new vision and a new culture to develop that doesn’t so breezily permit catastrophe upon catastrophe. Indeed, culture wouldn’t be a problem if our current attempts at culture didn’t create so many problems (i.e. externalities and classism).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mit genau dem Gegenteil ist zu rechnen. Noch keine Technologie hat durch ihren Überfluss Sparsamkeit hervorgebracht. Eher kommt ein &lt;a href=&quot;https://de.wikipedia.org/wiki/Rebound_(Ökonomie)&quot; title=&quot;Wikipedia - Rebound (Ökonomie)&quot;&gt;Rebound&lt;/a&gt; auf uns zu: Effizientere Nutzung von Ressourcen führt zu erhöhter Nutzung ihrer Produkte und der Ressourcenverbrauch bleibt letztlich gleich (auch Jevons Paradox genannt). Wieso sollte sich eine Entspannung der Psyche einstellen? Beobachtbar ist eine &lt;a href=&quot;http://www.reis.space/jekyll/update/2016/06/30/kompensation.html&quot; title=&quot;Critical Otter Studies - Kompensation und poetisches Lesen&quot;&gt;Kompensation&lt;/a&gt;, als Vervielfachung der Möglichkeiten.&lt;/p&gt;
+
+&lt;p&gt;Das Internet wird uns keine Ruhe lassen.&lt;/p&gt;
+
+&lt;p&gt;An virtual reality lässt sich erahnen, was hinter dem Bildschirm wartet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Aug 2016 12:33:22 +0200</pubDate>
+        <link>http://reis.space/jekyll/update/2016/08/09/VR.html</link>
+        <guid isPermaLink="true">http://reis.space/jekyll/update/2016/08/09/VR.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Mutterschaft, Logik, Metapher - zu Antje Schrupps Beitrag in der Zeit</title>
+        <description>&lt;p&gt;In der Zeit hat Antje Schrupp &lt;a href=&quot;http://www.zeit.de/kultur/2016-08/geburt-vaeter-transsexualitaet-queer-feminismus-10nach8&quot; title=&quot;DIE ZEIT: Mama, Papa, Väterin&quot;&gt; einen sehr interessanten Artikel zum Thema schwangerer Transmänner &lt;/a&gt; geschrieben, dessen Thema das Problem einer Wortfindung war. Sehr eindrucksvoll fand ich gerade den Punkt, dass entpolitisiert wer sagt, es gäbe keine Schwierigkeit, das zu bezeichnen, das da bezeichnet gehöre:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Eine ähnlich entpolitisierende Argumentationsweise findet sich aber zuweilen auch auf der anderen Seite, also bei denen, die für ein freies Verständnis der Geschlechterdifferenz eintreten. In queerfeministischen Debatten habe ich schon manchmal gehört, dass es in Bezug auf Geschlecht nichts zu verhandeln gäbe, weil die Geschlechtszugehörigkeit eine gänzlich individuelle Angelegenheit sei, zu der sich nur die betreffende Person selbst legitimerweise äußern darf: Wenn eine Person sagt, sie sei Mann und schwanger, dann ist das so, Ende der Debatte.&lt;/p&gt;
+
+  &lt;p&gt;Auch diese Position umgeht letztlich die Beschäftigung mit dem Zusammenhang von Realem und Symbolischem.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Es kam, wie es bereits abzusehen war: Auf die Aussage, es gäbe keine einfachen Lösung für das Problem der Wortfindung für “schwangere Männer” wurde geantwortet, Schrupp habe nicht mitbedacht, dass es doch eine einfache Lösung gäbe. Man kenne, wen man fragen müsse, dann sei das klar.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/antjeschrupp&quot;&gt;@antjeschrupp&lt;/a&gt; &lt;a href=&quot;https://twitter.com/fireantprincess&quot;&gt;@fireantprincess&lt;/a&gt; Kannst du einfach keinen trans thematisierenden Artikel mehr schreiben, ohne vorher selbst zu suchen/fragen?&lt;/p&gt;&amp;mdash; Grinsekatze (@Natanji) &lt;a href=&quot;https://twitter.com/Natanji/status/761113199890411520&quot;&gt;August 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Besonders das Wort “unbeholfen” stieß bitter auf. Doch was wäre die Alternative? Wer möchte, wenn es um Tatsachen geht, die gesellschaftlich noch nicht mit Routine besprochen werden können, beholfen sein?&lt;/p&gt;
+
+&lt;h4 id=&quot;aussagen&quot;&gt;Aussagen&lt;/h4&gt;
+
+&lt;p&gt;Die Schwierigkeit, das passende Wort zu finden, besteht darin, dass zwei Eigenschaften bisher das Mutter-Sein definiert haben, die eine von folgenden sein kann:
+1. Weibliches Geschlecht und die Sorge für ein Kind
+2. Weibliches Geschlecht und Gebärfähigkeit&lt;/p&gt;
+
+&lt;p&gt;Für Antje Schrupp stand hier (2) im Vordergrund der Diskussion.
+Hauptsächlich wegen Twitters Zeichenbegrenzung griff &lt;a href=&quot;twitter.com/@fireantprincess&quot;&gt; @fireantprincess &lt;/a&gt; zu einem cleveren Kunstgriff. Sie wiederholte sie in der formallogischen Form des &lt;a href=&quot;https://de.wikipedia.org/wiki/Modus_tollens&quot;&gt; Modus tollens&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/antjeschrupp&quot;&gt;@antjeschrupp&lt;/a&gt; äh, und? wenn A daran gebunden ist, dass B, bedeutet das für mich: aus B nicht =&amp;gt; A nicht &lt;a href=&quot;https://twitter.com/Natanji&quot;&gt;@Natanji&lt;/a&gt;&lt;/p&gt;&amp;mdash; depripixiedreamgrrrl (@fireantprincess) &lt;a href=&quot;https://twitter.com/fireantprincess/status/761138800164794368&quot;&gt;August 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;In diesem Fall haben wir also:&lt;/p&gt;
+
+&lt;p&gt;G: gebären; M: Mutterschaft&lt;/p&gt;
+
+&lt;p&gt;((M→G)∧¬G)→¬M&lt;/p&gt;
+
+&lt;p&gt;zu deutsch: Liegt keine Geburt vor, liegt keine Mutterschaft vor.&lt;/p&gt;
+
+&lt;p&gt;So weit, so unkompliziert. Aber was bedeutet es, dass Mutterschaft an Geburt gebunden ist? Nicht notwendigerweise, dass ausschließlich Mutter sei, wer individuell beide Bedingungen von (2) erfüllt.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/fireantprincess&quot;&gt;@fireantprincess&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Natanji&quot;&gt;@Natanji&lt;/a&gt; ja. Wenn niemand gebärt gibt es auch keine Mütter. Daran gebunden verweist auf eine bestimmte Art Beziehung.&lt;/p&gt;&amp;mdash; Antje Schrupp (@antjeschrupp) &lt;a href=&quot;https://twitter.com/antjeschrupp/status/761140315751346176&quot;&gt;August 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h4 id=&quot;was-folgt-was-ist-bedingt&quot;&gt;Was folgt, was ist bedingt?&lt;/h4&gt;
+
+&lt;p&gt;Stattdessen lässt sich erst einmal eine Nummer kleiner postulieren, dass ein Zusammenhang besteht. Die Beziehung muss also nicht für jeden einzelnen Fall gelten:&lt;/p&gt;
+
+&lt;p&gt;∀x(M(x)∧G(x))&lt;/p&gt;
+
+&lt;p&gt;sondern nur für einige&lt;/p&gt;
+
+&lt;p&gt;∃x(M(x)∧G(x))&lt;/p&gt;
+
+&lt;p&gt;was die Beziehung aber beliebig werden lässt. Hier haben wir genau das Problem, das in dem Zeit-Artikel angesprochen wurde. Das von Allgemeinheit und Besonderheit in der Begriffsbildung. Soll der gefundene Satz für alle gelten, ist er zu streng und zu primitiv, um auch nur leicht kompliziertere Fälle zu erfassen. Soll er nur individuell gelten, fragt sich: Wieso darüber reden? Tautologisch formuliert: Der Rekurs auf die Einzelnen vereinzelt.&lt;/p&gt;
+
+&lt;p&gt;Die Not, darüber zu sprechen, ergibt sich nicht allein aus dem Vorhandensein von Einzelfällen (woher auch immer man davon gehört haben mag), sondern es gibt einen &lt;em&gt;Trend&lt;/em&gt;, eine gewisse &lt;em&gt;Plausibilität&lt;/em&gt;. Ohne dass die Verbindung von Geschlecht und Geburt beim Mutter-sein also absolut gesetzt werden muss, kann sie ihre Plausibilität erhalten. Und die Problematisierbarkeit des Themas “Transmänner, die geboren haben” zeigt eine gewisse Auffälligkeit und Schlagkräftigkeit dieser Verbindung.&lt;/p&gt;
+
+&lt;p&gt;Dieses Problem einer Unvereinbarkeit ist kein neues und lässt sich zum Beispiel in der Wissenschaftsphilosophie des 20. Jhdt. im Problem der statistischen Aussage beobachten. Diese hat die Besonderheit, dass ihre Wahrheitsfähigkeit nicht dieselbe ist wie bei universellen Hypothesen der Form A-&amp;gt;B, sondern gestuft ist (51% der geborenen Menschen ist männlich ist richtiger als dass es 30% seien).
+Die statistische Form, etwas in Anteilen (51/100 usw.) anzugeben ist dann ein spezifisches wissenschaftsphilosophisches Problem, das hier nicht vorliegt. Wichtig ist nur eine Inkompatibilität mit rigiden syllogistischen Hypothesen. Statistisch werden nämlich nicht nur Tatsachen (v.A. Klassenzugehörigkeiten und Meinungen) in den Sozialwissenschaften, sondern auch in den Naturwissenschaften ausgedrückt. So in der Physik in der kinetischen Gastheorie oder Max Borns statistischer Interpretation der Quantenphysik. Gerade der Konflikt von Aussagen der Quantenphysik mit denen der Atomphysik besteht in der Unvereinbarkeit eines Systems statistischer Aussagen (Quantenphysik) mit einem System nichttstatistischer Aussagen (Atomphysik). Denn auch verzichten kann man auf diese unscharfen Systeme nicht, wenn von ihnen alle Irritationen und damit Neuerungen der klassischen Theorie ausgehen&lt;/p&gt;
+
+&lt;h4 id=&quot;derrida-und-die-usure&quot;&gt;Derrida und die usure&lt;/h4&gt;
+
+&lt;p&gt;In &lt;em&gt;La Mythologie Blanche, La métaphore dans le texte philosophique&lt;/em&gt; beschäftigt sich Jacques Derrida mit Gebrauch und Wirkung von Metaphern. Geht man davon aus, dass unsere Sprache untergründig immer metaphorisch ist, gibt es keinen Weg zu einer Beschreibung der Metapher, die selbst keine solche wäre. (Wird sie so gebräuchlich und selbstverständlich, dass man sich dessen gar nicht mehr bewusst ist, spricht man von toten Metaphern. Wie aber stirbt eine Metapher?) Erschlossen werden soll sie durch den Begriff der &lt;em&gt;usure&lt;/em&gt;. Anstelle der ‘usage’, einem Gebrauch, wird also ein Verbrauch, ‘usure’ beschrieben. Wie auch der Witz nutzt sich die Metapher mit jedem Gebrauch ab, reibt sich ab, ermüdet, wird üblich oder Kitsch. Eine weitere Bedeutung von usure ist jedoch gleichsam der Wucher. Diese zweite Bedeutung, aus einem primitiven Rohstoff einen Gewinn zu schlagen, Zinsen zu nehmen, linguistischen Mehrwert zu generieren, hat für Derrida den gleichen Stellenwert wie die erste. Sie beschreibt den Spielzug, den eine Sprecherin mit dem Gebrauch einer Metapher tätigt, mehr zu gewinnen als sie ausgegeben hat.&lt;/p&gt;
+
+&lt;p&gt;Und eben auf diese Weise, metaphorisch nämlich, werden neue Begriffe gewonnen. Der &lt;em&gt;Tisch&lt;/em&gt; wird dann von seinen &lt;em&gt;Tischbeinen&lt;/em&gt; getragen. Neues wird immer auf eine Weise vorgeschlagen, die unscharf ist, einen höheren Aufwand an Verstehen erfordert und theoretisch etwas unbefriedigend (“unbeholfen”) bleibt. Erst mit der Benutzung reibt sich das ab, hält man die Metapher für den Sachverhalt selbst. Das macht dann auch die sonst vergleichsweise “raue” (“fruste”, Derrida) Ausdrucksweise der Philosophin aus. Als Ausgleich der Feinheit und Stärke des einen Begriffs wird der Rest des Satzes, des Textes auf “normale” Sprache bedacht sein. (Vgl. dazu &lt;a href=&quot;http://www.reis.space/jekyll/update/2016/06/30/kompensation.html&quot; title=&quot;Critical Otter Studies - Kompensation und poetisches Lesen&quot;&gt;Kompensation und poetisches Lesen&lt;/a&gt;) Philosophie ist der sich selbst tragende Prozess der Metaphorisierung. So werden Debatten geführt. So bilden sich Diskurse heraus. Vieles ist nicht selbstverständlich und die Kompetenzen sind nicht verteilt.&lt;/p&gt;
+
+&lt;h4 id=&quot;das-primat-der-erfahrung&quot;&gt;Das Primat der Erfahrung&lt;/h4&gt;
+
+&lt;p&gt;Deshalb finde ich es befremdlich, wenn auf die scheinbar eindeutige Überzeugungskraft individueller Erfahrungen verwiesen wird. Nicht weil ich diese Erfahrungen leugnen würde, sondern weil die Zusprache, wer etwas zu etwas zu sagen habe, gerade von einer Klarheit dessen ausgeht, worum es gehen soll. Das gilt für einfache Evidenzen wie “Ich kenne Personen x, die bereits y verwenden”, aber auch für das Zusammenstampfen des Themas auf die Erfahrung der Geburt:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/kohlrabi23&quot;&gt;@kohlrabi23&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Natanji&quot;&gt;@Natanji&lt;/a&gt; ..gebären was Spezifisches ist, was andere Menschen im Verhältnis zum Kind eben nicht haben. Nicht mehr, nicht weniger.&lt;/p&gt;&amp;mdash; Anne Roth (@annalist) &lt;a href=&quot;https://twitter.com/annalist/status/761239389091401728&quot;&gt;August 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Dabei ist das Problem ja nicht, dass die einen eine Erfahrung machen, andere nicht (Zählt dann Kaiserschnitt? Adoption?), sondern dass es diesen Zusammenhang von Geschlecht und Mutterschaft gibt, wenn sich darüber verständigt werden soll. Sie tauchen gemeinsam auf. Dass Geschlecht und Gebären als Erfahrung vorkommen ist also trivial richtig, aber die Probleme gibt es woanders. Wo das darüber Sprechen Rückwirkungen auf das Leben hat. Adoptivmüttern, Vätern, Transmännern, die geboren haben, soll nicht ein privilegierter Status vorenthalten werden. Im Gegenteil: Es muss beobachtet werden, was diese Auffälligkeit des Diskurses für diese Menschen bedeutet und dafür, wie sie sich bezeichnen wollen. Dafür, wie andere diese Selbstbezeichnungen verstehen und damit umgehen wollen. Gerade wenn sich jemand zum Beispiel entscheidet, Vater zu nennen, obwohl er selbst das Kind im Leib getragen hat oder Mutter, obwohl er ein Mann ist, ist es doch eine wichtige Tatsache, dass er dies unter oben genannten Bedingungen der symbolischen Ordnung tut.&lt;/p&gt;
+
+&lt;p&gt;Denn auch das kann man über die Metapher wissen. Klassisch wird sie nach I. A. Richards in tenor und vehicle unterteilt. Der tenor ist das Objekt, welchem Attribute zugeschrieben werden, der nehmende Teil. Das vehicle ist der gebende Teil. Sage ich “Sie ist eine Rose”, ist “Sie” der tenor und die Rose “vehicle”. So einfach ist das aber eben nicht, denn eine Frau als Rose zu bezeichnen, ändert auch, wie wir dann die Rose sehen. Jede Metapher wirkt auch auf das zurück, aus dem sie schöpft. Das ist ihr unerhörter Wucher. Das macht sie so kompliziert und schön.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Genauso ändert sich für alle Menschen etwas, wenn es in der symbolischen Ordnung nicht mehr nur Frauen, Männer und Intersexuelle gibt, sondern eine ganze große Bandbreite von Geschlechtern. Und ist das nicht auch die Absicht solcher Diskurse?&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 05 Aug 2016 10:45:22 +0200</pubDate>
+        <link>http://reis.space/jekyll/update/2016/08/05/mutterschaft-logik-metapher.html</link>
+        <guid isPermaLink="true">http://reis.space/jekyll/update/2016/08/05/mutterschaft-logik-metapher.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Ctrl -&gt; Alt -&gt; ? - Internet is Copy</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Beispiel. Die sowjetische, das ist die umfangreichste und komplizierteste Bürokratie der Welt, muß auf ein
+elementare Organisationsmittel, den Kopierautomaten, fast durchgehend verzichten, weil dieses Gerät potentiell
+jedermann zum Drucker macht.&lt;/p&gt;
+
+  &lt;p&gt;Enzensberger, Hans Magnus (1970): “Baukasten zu einer Theorie der Medien.” in: Kursbuch 20, S. 162&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The key to the Xanadu copyright and royalty scheme was that literal copying was forbidden in the Xanadu system. When a user wanted to quote a portion of document, that portion was transcluded. With fee for every reading.
+Transclusion was extremely challenging to the programmers, for it meant that there could be no redundancy in the grand Xanadu library. Every text could exist only as an original. Every user in the world would have to have instant access to the same underlying collection of documents.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;http://www.wired.com/1995/06/xanadu/&quot; title=&quot;Wired: The Curse of Xanadu&quot;&gt;The Curse of Xanadu, Wired (1995)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Das Problem des Urheberrechts ist eines, das sich unter der Sicherheit des Buchdrucks stellen konnte - Erst musste der Bestand des Gedruckten gesichert sein. Die Druckerpresse mit beweglichen Lettern verringerte den Aufwand für den Buchdruck immens, was aber immer noch bedeutete, viele Exemplare auf Basis &lt;em&gt;einer&lt;/em&gt; Vorlage anzufertigen, die dann jeweils massenhaft verbreitet werden konnten. Aus der gewonnenen Flexibilität beim Druck ist an keiner Stelle eine Verringerung der jeweiligen Exemplare geworden. Neben dem kommerziellen Vertrieb greift dabei sogar heute noch die Tradition des Aufbewahrens in Bibliotheken.&lt;/p&gt;
+
+&lt;p&gt;Das sind die Bedingungen, unter denen sich dann Maßnahmen ausdenken ließen, aus Kapitalinteressen die Verbreitung von Text zu behindern. Erst ein solcher Überfluss machte eine künstliche Verknappung zumutbar.
+Im Internet lässt sich nun eine Verkehrung des Stabilisierungsprozesses von Texten feststellen. Aus dem Dreischritt: Fragiles Manuskript, editorische Bearbeitung, gesicherter Textkorpus wird 1. Abspeichern 2. Entropie durch techn.
+Umgebungsänderung 3. Werkverlust - [Ctrl -&amp;gt; Alt -&amp;gt; Del] (Cramer, Florian (2010): Ctrl -&amp;gt; Alt -&amp;gt; Delete : Vom schnellen Verfall neuester Literatur. Warum es heute noch weniger interessante Netzdichtung gibt (als vor einem Jahrzehnt), in: Siegener Periodicum zur Internationalen Empirischen Literaturwissenschaft 29, S. 161-168)
+Die Kopie, die den Basismodus des Internets darstellt, wird rechtlich unterdrückt, um Interessen zu bewahren, die zum Buchdruck gehören. Dabei sind Texte im Internet durch die “Veröffentlichung” noch nicht viel sicherer. Cramer beschreibt zum Beispiel den paradoxen Effekt, dass sich von der Netzliteratur der letzten 50 Jahre nur noch gedruckte Sekundärliteratur finden lässt, ähnlich gnostischen oder vorsokratischen (vor dem Namen Sokrates) Texten. Das kann, wie er vorschlägt, durchaus als technisches Problem adressiert werden, welches Format besonders robust sei, das reicht aber definitiv nicht zu.&lt;/p&gt;
+
+&lt;p&gt;Zu dem [Alt], dem Rauschen in der technischen Übertragung, gehört auch manuelle Kopie auf andere Datenträger, Versionen, und - Plattformen? (Zu manueller Übertragung und Rauschen siehe &lt;a href=&quot;https://theawl.com/the-triumphant-rise-of-the-shitpic-e25d8e5af9bc&quot; title=&quot;The Triumphant Rise of the Shitpic - The Awl&quot;&gt;dieses Beispiel digitalen Bildverfalls.&lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Die neuen Medien sind aktions- nicht kontemplativ, augenblicks- und nicht traditionell orientiert. Ihr Zeitverhältnis ist dem der bürgerlichen Kultur, die Besitz will, also Dauer, am liebsten Ewigkeit, völlig konträr. Die Medien stellen keine Objekte her, die sich horten und versteigern ließen. Sie lösen “geistiges Eigentum” schlechthin auf und liquidieren das “Erbe”, das heißt, die klassenspezifische Weitergabe des immateriellen Kapitals.
+Damit ist nicht gesagt, daß sie geschichtslos wären oder zum Schwund des geschichtlichen Bewußtseins beitrügen. Sie erlauben es im Gegenteil zum ersten Mal, historisches Material so zu fixieren, daß es jederzeit vergegenwärtigt werden kann. Indem sie dieses Material gegenwärtigen Zwecken zur Verfügung stellen. machen sie jedem Benutzer klar, daß Geschichtsschreibung immer Manipulation ist. Doch ist das Gedächtnis, das sie bereithalten, nicht einer Gelehrtenkaste vorbehalten. Es ist gesellschaftlich.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Enzensberger(1970):167&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Das konnte man hoffen, als man noch keine praktischen Fragen des Speicherns beantworten musste.
+Aber: Jetzt läßt sich das massenhafte Publizieren, sowie ebenfalls das Löschen feststellen (sogar als unfair auffassen) und es ist nicht in Interessen nachvollziehbar. Manipulation ohne Hände.&lt;/p&gt;
+
+&lt;p&gt;Es wird nie die Ruhe geben, die sich einstellen sollte, sobald nicht mehr gelöscht wird.
+Ironisch ist, dass Enzensberger hier Stabilität (der Technologie) überschätzt, um sich Wandel (der Gesellschaft) zu versprechen. Die Störung (“Die Störfaktoren können in den nicht abdichtbaren Nexus der Medien eindringen und sich dort durch Resonanz äußerst rasch fortpflanzen und verstärken”, S.162 - Hier von Enzensberger naiv systemtheoretisch, nämlich in einem Zusammenfallen technischen und kommunikativen Ereignisses ausgedrückt) sollte nur die richtigen treffen. Sowohl sollte Geschichte aufgedeckt werden, indem nichts mehr verlorengeht, als auch die “Störung” ein Regime destabilisieren. Damit sind in einer noch zu kommenden Kommunikation bereits Erwartungen vorgefertigt: Die Störung soll die Anderen stören. Dabei bildet erst Kommunikation Erwartungen, deren Nichterfüllung dann Störung sein kann und zur Reparatur mobilisiert.
+Tatsächlich wird in Texten des Internets immer mal wieder der Verdacht erinnert (gespeichert), dass etwas verlorengegangen sei. Es konnten sich sogar Ethiken des Nichtlöschens entwickeln, d.h. die Beobachtung, dass etwas verloren geht, war aufdringlich genug.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Die Macht gehört demjenigen, der zu geben vermag und dem nicht zurückgegeben werden kann. Geben, und zwar in der Weise, dass einem nicht zurückgegeben werden kann, das heißt den Tausch zum eigenen Vorteil zu durchbrechen und ein Monopol aufzurichten: Der gesellschaftliche Prozess ist auf diese Weise aus dem Gleichgewicht gebracht.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Baudrillard, Jean (1978): Requiem für die Medien, in: Kool Killer oder Der Aufstand der Zeichen, S. 91&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tatsächlich lässt sich vermuten, dass der gesellschaftliche Prozess aus dem Gleichgewicht gebracht ist. Aber gerade nicht mehr auf die Weise, dass die Institutionen der Massenmedien Mittel haben, Zuschauer zu gewinnen, die andere nicht haben. Denn noch das lässt sich in Gleichgewichtsmetaphern ausdrücken. Im Gegenteil: Das Bild eines Gleichgewichts, in denen zwei Seiten einer Waage eine vorliegende Macht verteilen, wird gesprengt, wenn &lt;a href=&quot;https://differentia.wordpress.com/2015/10/03/ueber-podcast-2/&quot; title=&quot;Podcasts: Radio ohne Professionalitäts-Magie 2 - differentia&quot;&gt;jeder sich gegenseitig ausschalten kann&lt;/a&gt;. Was Gewicht sein könnte, fließt auseinander und macht Erwartungen an Kommunikation auf eine Art variabel, die Analyiker des Fernsehens in den 70ern sich nicht denken konnten.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Zurückgeben dagegen bedeutet, diese Machtbeziehung zu zerbrechen und auf der Basis einer antagonistischen Reziprozität den Kreislauf des symbolischen Austauschs herzustellen (oder wiederherzustellen). In der Sphäre der Medien verhält es sich ebenso: hier wird zwar gesprochen, aber so, daß nirgends darauf geantwortet werden kann. Deshalb besteht die einzig mögliche Revolution in diesem Bereich -
+aber auch in allen anderen Bereichen, die Revolution überhaupt - in der Wiederherstellung dieser Möglichkeit der Antwort. Diese einfache Möglichkeit setzt die Umwälzung der gesamten gegenwärtigen Medienstruktur voraus.
+Eine andere mögliche Theorie oder Strategie gibt es nicht. Jeglicher Versuch, die Inhalte zu demokratisieren, sie zu unterwandern, die “Transparenz des Codes” wiederherzustellen, den Informationsprozeß zu kontrollieren, eine Umkehrbarkeit der Kreisläufe zu erreichen oder die Macht über die Medien zu erobern, ist hoffnungslos,- wenn nicht das Monopol der Rede gebrochen wird, und zwar nicht, um jedem Einzelnen das Wort zu erteilen, sondern damit die Rede ausgetauscht, gegeben und zurückgegeben werden kann, wie manchmal der Blick oder ein Lächeln, und ohne daß sie je angehalten, zum Gerinnen gebracht, gespeichert und an irgendeiner Stelle des gesellschaftlichen Prozesses neu verteilt werden kann.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Das Unbehagen Baudrillards an der “Demokratisierung der Inhalte” ähnelt dem Kants an der Demokratie, allen das Wort zu erteilen würde zu nichts führen - was immerhin eine realistischere Einschätzung ist als die Enzensbergers, Sozialismus in Schaltkreise zu packen. Was stattdessen erreicht werden sollte, war der “Austausch”. Aber was wird getauscht, und welche Kommunikation kann die Erwartung einer doppelten Buchführung des Beitrags wirklich erfüllen?
+Das Problem wird nur größer, wenn nicht mehr nirgends geantwortet wird, sondern überall. Und nicht mehr nur von natürlichen Personen und nicht mehr in einer natürlichen &lt;a href=&quot;http://www.reis.space/jekyll/update/2016/06/30/kompensation.html&quot; title=&quot;Kompensation und poetisches Lesen&quot;&gt;“Grundform der Kommunikation”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Es wird tatsächlich nicht jedem Einzelnen das Wort erteilt. Sondern mehr als jedem Einzelnen. Kommunikation ist nämlich weniger Tausch als vielmehr Verschwendung, und das lässt sich heute noch besser als früher beobachten.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Die Massenmedien sind dadurch, charakterisiert, daß sie anti-mediatorisch sind, intransitiv, dadurch, daß sie
+Nicht-Kommunikation fabrizieren - vorausgesetzt, man findet sich bereit, Kommunikation als Austausch zu definieren, als reziproken Raum von Rede und Antwort (parole et réponse), als Raum also einer Verantwortung (responsabilité) - und zwar nicht im Sinne psychologischer oder moralischer Verantwortung, sondern als eine vom einen zum anderen im Austausch sich herstellende persönliche Korrelation”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Und genau diese Nicht-Kommunikation findet regelmäßig statt, lässt sich auf Dauer stellen, auf kommunikative Erwartungen und Miss/erfolgsbedingung richten. Die “Macht über die Medien” ist außer Kontrolle, denn jeder hat jetzt zu viel davon. Utopisten können Unternehmen des Silicon Valley verfluchen, Massenmedien die Uninformiertheit im Internet, der gesunde Menschenverstand, dass, wenn man allen das Wort erteilt, nur Blödsinn herumkommt.
+Kommunikation ohne responsabilité ist noch Kommunikation; die Einfachheit, sich der Antwortpflicht zu entziehen zieht semantisch in die Kommunikation ein. Nichts an dem Satz [vom einen zum anderen] [im Austausch sich herstellende] [persönliche Korrelation] stimmt in der Kommunikation (!) im Internet noch.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Die elektronischen Medien räumen mit jeder Reinheit auf, sie sind prinzipiell “schmutzig”. Das gehört zu
+ihrer Produktivkraft. Sie sind ihrer Struktur nach anti-sektiererisch; ein weiterer Grund dafür, daß die Linke,
+sofern sie ihre Traditionen nicht überprüfen will, wenig mit ihnen anzufangen weiß.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Enzensberger S. 164&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Weiter geht als also nicht mit der Suche nach der einen richtigen Plattform im Kampf gegen die Windmühlen der Finanzwirtschaft (dezentrale soziale Netwerke, …). Etwas anderes passiert bereits, sowohl parallel zu den Trennungen zwischen den Datensilos vereinzelter Web-2.0-Unternehmen, als auch durch ihre jeweiligen Interessen gestützt: Die Querkopie (und nicht nur der Link, denn der Speicherplatz ist nicht mehr knapp.). Facebook wird sehr bereitwillig deinen tumblr-Beitrag verdoppeln, usw. Die Idee des Hyperlinks hat, wenn es um Inhalte ging, die Bedeutung der Redundanz unterschätzt.
+Denn gerade das macht den Hypertext so störanfällig: Die Möglichkeiten der variablen Verkettung werden im Laufe der Zeit durch &lt;a href=&quot;https://en.wikipedia.org/wiki/Link_rot&quot; title=&quot;Wikipedia: Link rot&quot;&gt;Link Rot&lt;/a&gt; eingeschränkt. Die Theorie des Hypertexts funktioniert noch auf Basis dessen, dass es einen &lt;em&gt;Ort&lt;/em&gt; gibt, auf den verwiesen werden kann. Und darauf ist kein Verlass. Dafür ist die Rechenkraft so hoch, dass so ziemlich alles gesucht werden kann: Wenn nicht auf Facebook, dann auf Pastebin, Twitlonger, …&lt;/p&gt;
+
+&lt;p&gt;Redundanz ist das Prinzip des Internets, das untergründig aufrechterhalten wird. Unternehmen sind im Besitz von &lt;em&gt;Gebieten&lt;/em&gt; aus Datenleitungen, durch die zu leiten eine vermarktete Dienstleistung ist. Diese archaische Infrakstruktur der Gebietsaufteilung ist Teil kaum einer Beschreibung des Internets, und zu Recht, denn seine Operationen sind im Gegenteil durch ihre Ortlosigkeit gekennzeichnet.
+Das Speichern von Daten, von Text wird heute massenhaft von großen Unternehmen übernommen (der eigene Server im Wohnzimmer darf als Ausnahme gelten). Gibt es einen guten Grund, Kommunikation, Textverbreitung- und speicherung unter Bedingung von Plattformen zu beschreiben? Auch diese Dienste bieten die Möglichkeit, durch Kopie Redundanz herzustellen. Wenn wir sie richtig verwenden, können wir sie vergessen.&lt;/p&gt;
+
+&lt;p&gt;Es geht nicht um Plattformneutralität, sondern Plattformindifferenz.&lt;/p&gt;
+
+&lt;p&gt;Internet is Copy&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jul 2016 16:27:00 +0200</pubDate>
+        <link>http://reis.space/jekyll/update/2016/07/03/hypertext.html</link>
+        <guid isPermaLink="true">http://reis.space/jekyll/update/2016/07/03/hypertext.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Nachbesprechung: Kompensation und poetisches Lesen</title>
+        <description>&lt;p&gt;Über Telegram zwischen &lt;a href=&quot;https://twitter.com/bertrandterrier&quot;&gt;@bertrandterrier&lt;/a&gt; und mir&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Die Möglichkeit, instantan Text zu versenden, hat nicht bloß dazu geführt, vorher selbstverständliches primitiv
+zu kompensieren, sie selbst ermöglicht eine Kompensationsleistung in der Kommunikation - die wieder
+selbstverständlich werden konnte.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mir bleibt die Bedeutung des Satzes ein wenig unklar, vor allem wegen dem offenen Genitiv: du meinst: es wird nicht
+nur primitiv kompensiert, sondern komplex, und zwar indem von face-to-face-Kommunikation bestimmte Funktionen gar
+nicht übernehmen konnte?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nicht Genitiv, dem Dativ „in der Kommunikation“.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Und weshalb hier „Kompensationsleistung“ statt Kompensation? Was gibt die Leistung hinzu?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Und „sie selbst“: statt wem? Oder meintest du „sie ermöglicht eine Kompensationsleistung in der Kommunikation selbst“?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ansonsten interessanter Artikel. Ich habe wirklich gebraucht reinzukommen und war wirklich skeptisch wegen der
+Kompensationsdefinition, ich glaube jetzt nicht mehr… jedenfalls mag ich die irgendwie implizit enthaltene Kritik
+an plumpen Kritiken der „neuen Medien“, die man da herauslesen könnte. Denen könnte man ja gerade häufig vorwerfen,
+diese immer erstmal nach einer primitiven Kompensation zu überprüfen, wo Instant Messaging erstmal defizitär wirkt.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;“Und „sie selbst“: statt wem? Oder meintest du „sie ermöglicht eine Kompensationsleistung in der Kommunikation selbst“?”&lt;/p&gt;
+
+&lt;p&gt;Genau. Sowohl primitive Kompensation, als auch Auslagerung lässt sich beobachten.&lt;/p&gt;
+
+&lt;p&gt;Wenn du @user an den Anfang eines Tweets setzt, gilt das als Reply und erscheint nur auf TLs von Leuten, die uns
+beiden folgen - falls das nicht deine Absicht war&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;echt? oh… wußt ich nicht :D&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;das löst sich auf, wenn ich einen Punkt davor setze, oder?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye&lt;/p&gt;
+
+&lt;p&gt;“Und „sie selbst“: statt wem? Oder meintest du „sie ermöglicht eine Kompensationsleistung in der Kommunikation selbst“?”””&lt;/p&gt;
+
+&lt;p&gt;Die Möglichkeit des IM ermöglicht selbst eine Kompensationsleistung in der K.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Das verstehe ich auch nicht: Was ändert sich von „Die Möglichkit des IM ermöglicht eine Kompensationsleistung…“
+zu Die Möglichkeit des IM ermöglicht selbst eine Kom…“&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;oder hat es einfach nur stilistische und keine semantische Funktion?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;IM war nicht nur etwas, auf das mit (primitiver) Kompensation reagiert wird —Komp. ist hier äußerlich&lt;/p&gt;
+
+&lt;p&gt;IM &lt;em&gt;selbst&lt;/em&gt; ermöglicht eine Kompensationsleistung —Kompensation geht DURCH IM&lt;/p&gt;
+
+&lt;p&gt;Die Kompensation ist das Übertragen von Gedächtnis auf ein Schriftmedium
+Die Kompensationsleistung ist das Bereitstellen eines Schriftmediums, um Kompensation zu ermöglichen&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Okay, der erste Teil ist mir jetzt klar.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Aber wäre dann nicht Kompensationspotential o. ä. besser? Ich weiß nicht, ob Leistung das hergibt. Die Leistung
+meiner Arbeit ist ja nicht schlicht die Bereitstellung meiner Arbeitskraft, sondern der Gebrauch derselben&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Leistung ist veräußerte Arbeitskraft. Macht jemand einen Vertrag über deine Arbeitskraft, wird er durch erhaltene
+Leistung geprüft. Ich kann auch nicht für Dienstpotential bezahlen, sondern nur Dienstleistung(en)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Aber genau das ist es doch. IM ermöglicht Kompensation. Aber sie ermöglicht keine Kompensationsleistung.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dann würde sie ja ermöglichen,, Kompensation zu ermöglichen&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ja.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;„Die Kompensationsleistung ist das Bereitstellen eines Schriftmediums, um Kompensation zu ermöglichen“&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Aber ermöglichen etwas zu ermöglichen?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Telegram ermöglicht mir Kompensation - ist eine Kompensationsleistung.&lt;/p&gt;
+
+&lt;p&gt;Instantan texten zu können, ermöglicht, Telegram auf den Markt zu bringen - Ermöglicht Kompensationsleistung&lt;/p&gt;
+
+&lt;p&gt;Eine Technologie ermöglicht, mit einem t. Artefakt mir etwas zu ermöglichen&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ist das wirklich, was du meinst? In deinem Text folgt auf diesen Satz:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;„Das Kurzzeitgedächtnis, das face to face …. Mit der Beschleunigung und Flexibilisierung von Nachrichtenübermittlung
+im Internet wird diese Leistung schneller und flexibler. Das führt zu eigenen Textformen, wie jetzt schon bei der
+Verwendung von Instant-Messengern beobachtbar: Der Mehrthemenchat.“&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Möglicherweise ist zwischen beiden Sätzen ein Sinnsprung – es liest sich aber, als käme nun die angekündigte
+Kompensationsleistung. Und die besteht dann nicht in konkreten Programmen bzw. technologischen Artefakten.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Also, so oder so: falls du nochmal nen Fachtext drüber schreibst, würde ich glaube ich an der Stelle erläuternde
+Ausführungen machen.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Fachtext?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Okay, das ist ein Fachtext.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ich meine, falls du nochmal ne Hausarbeit drüber schreibst.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Oder überhaupt, wenn du nochmal drüber schreibst. Ich glaube die Stelle ist anfällig für Mißverständnisse.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ja, genau. Ich müsste mich dem Fülltext hingeben, statt in poetischer Lesart zu schreiben&lt;/p&gt;
+
+&lt;p&gt;Ja, in einer Hausarbeit oder einem Journal wäre das Missverständnis meine Schuld&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Schuld? Hä? Ich bin verwirrt? Jetzt ist es? „Verwirrung die von Unschuld befreit“ wie Kusanowsky meinte?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Um ehrlich zu sein, fühle ich mich dadurch ein wenig beleidigt. Das mag jetzt auch einfach, an einer gewissen
+Überempfindlichkeit von mir liegen – ich will es nur mal offen legen, um unnötige Konflikte zu vermeiden.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ich habe das Gefühl, solche Reaktionen ironisieren immer, und nehmen das Gegenüber nicht ernst. Ich lese das gerade
+derart: „Natürlich, es wäre meine Schuld in der Hausarbeit, aber das zeigt nur, daß du mich nicht verstanden hast,
+du unwissender.“ Dabei ging es mir ja gar nicht um irgendeine Schuld. Ich habe auch gar nicht gesagt, daß es in dem
+Blogtext so tragisch wäre. Ich habe etwas nicht verstanden, dich gefragt, du hast es erklärt. Darauf meinte ich nur,
+wenn du es irgendwo theoretisch genauer ausführst, würde ich es genauer ausführen.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Und da müßtest du dich dem Fülltext hingeben, klingt gleich wie eine Ideologie-Frage: du wirst ja wohl mal Fülltexte
+schreiben, nichts hält davon ab, beides zu machen. Und ich weiß nicht, ob ich das vollkommen falsch interpretiere und
+es von dir gar nicht so gemeint ist.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;“„Natürlich, es wäre meine Schuld in der Hausarbeit, aber das zeigt nur, daß du mich nicht verstanden hast, du
+unwissender.“ Dabei ging es mir ja gar nicht um irgendeine Schuld.”&lt;/p&gt;
+
+&lt;p&gt;Genau, weil du stattdessen auch einfach nachfragen kannst. Und jeder Fremde kann das jetzt. Weil kein Verlag,
+Produktionsprozess und Peer Review dahintersteckt, habe ich keine Verantwortung für eine irgendwie geartete
+Verständlichkeit. Es geht ja nicht um eine Verdrehung (nein, der Leser ist Schuld!), sondern Auflösung.&lt;/p&gt;
+
+&lt;p&gt;“Ich habe etwas nicht verstanden, dich gefragt, du hast es erklärt. Darauf meinte ich nur, wenn du es irgendwo
+theoretisch genauer ausführst, würde ich es genauer ausführen”&lt;/p&gt;
+
+&lt;p&gt;Und ich habe zugestimmt mit dem Hinweis, das sei die Pointe des Textes: Schreiben in poetischer Lesart.&lt;/p&gt;
+
+&lt;p&gt;“du wirst ja wohl mal Fülltexte schreiben, nichts hält davon ab, beides zu machen.”&lt;/p&gt;
+
+&lt;p&gt;Ja, dann ist meine Antwort auch völlig unproblematisch&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Okay, es liegt gerade einfach an mir. Tschuldige, ich bekomme viel in den falschen Hals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ich hatte eigentlich auch noch mehr fragen, nämlich zur poetischen Lesart&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;In dem Luhmann-Zitat: entspricht poetischer Text der Lyrik? Oder wie stehen die genau im Verhältnis? Poetische
+texte der weitere, Lyrik der engere Begriff?&lt;/li&gt;
+    &lt;li&gt;Du sagst: Die poetische Lesart wird möglich. Da meinst du konkret die poetische Lesart auch nicht als „Lyrik“
+gekennzeichneter Texte, oder? Also konkret bspw. solchen Texten, die wir als Buch gedruckt, in anderen Abteilungen
+fänden.&lt;/li&gt;
+    &lt;li&gt;Bleibt mir unklar wie das mit der Zufälligkeit des Schreibens zusammenhängt: weil doch gerade die Lyrik durch eine
+bewußte Wortwahl ausgezeichnet wird (in dem Zitat). Dann würde ich die Texte doch gerade nicht lesen, als wären die
+Worte zufällig (und beliebig? Oder meint zufällig gerade nicht beliebig?)&lt;/li&gt;
+    &lt;li&gt;Jetzt sagst du: in der poetischen Lesart schreiben. Aber wie ist nun das möglich?&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Bin unterwegs, komm später aber drauf zurück&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Geht klar. Können auch drüber sprechen, wenn wir uns das nächste mal sehen.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Als ich deinen Link auf FB teilen wollte, wurde mir geschrieben, er wäre vermutlich unsicher. Wenn ich ihn nicht
+entfernen wolle, sollte ich aus einer Liste von Bildern die auswählen, die einen Wasserfall zeigen. WTF?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;😄&lt;/p&gt;
+
+&lt;p&gt;Bist du dir wenigstens sicher, ob du existierst?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nichtmal dessen. Ich meine, so viele Fragen: warum wird der Link den ich teile sicherer, wenn ich Wasserfälle von Nicht-Wasserfällen unterscheiden kann?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Und ich war mir bei einem Bild wirklich nicht sicher! Ab wann ist etwas ein Wasserfall? Wie hoch muß es da sein?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ja. Wird da ohne Unterschied verwendet&lt;/li&gt;
+  &lt;li&gt;Genau. Bei der poetischen Lesart drängt sich die Kontingenz des Geschriebenen auf. Alles hätte anders geschrieben werden können und die Anschauung des Gedichtes ergibt sich daraus, was das jeweils bedeutet.
+Nicht so bei dem dagegen Abgegrenzten Sachbuch, das im Bezug auf die Wortwahl (bis auf einzelne Sinnangereicherte Begriffe, wie Autopoiesis, Thermodynamik, Falsifikation, …) naiv gegenüber der Wortwahl ist.
+Die Lyrik erfordert eine anstrengende Lesart und deswegen war mir wichtig, wie vorraussetzungsreich das war. Eine dieser Vorraussetzungen ist die Etablierung der Genialität des Dichters - dann kann ich darauf vertrauen, dass es einen guten Grund hat, wenn mich die Wortwahl verwirrt.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“Die poetische Lesart unter Mitbeachtung der Zufälligkeit des eigenen Schreibens ist nun möglich und häufig”. Gerade nicht von Büchern in Bibliotheken - also keine Derridasche Ungenauigkeit oder Adornos Verstehsport. Eine der Besonderheiten ist ja die Unübersichtlichkeit der Adressen. Antwortet mir ein Bot? Schreibt mir jemand, der mir unter anderem Namen bereits schrieb? Verwirrung problematisiert schneller das eigene Verstehen (anstelle der Kompetenz des Anderen). Das drängt die Mitproblematisierung der Kontingenz eigenen Schreibens beim Schreiben auf.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Du entwickelst Paranoia gegenüber deinem eigenen Selbstverstehen&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://differentia.wordpress.com/2012/07/09/die-alltaglichkeit-paranoischer-beobachtung-3/&quot;&gt;Die Alltäglichkeit paranoischer Beobachtung 3 | Differentia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Also Kontingenz gerade andersherum, als ich sie aufgefaßt habe: WEIL es anders sein könnte, GERADE DARUM wird so wichtig, welche Wörter verwendet werden. Das ist interessant.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ja! Das ist eine Wendung, die bei Luhmann häufig ist&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;@bertrandterrier&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Erinnert mich gerade ein wenig an Blumenberg, der meinte, ein notwendiger Denker, könne nie ein herausragender sein. Denn der notwendige würde ja ersetzt werden müssen, wäre er nicht da, gerade weil er notwendig ist.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;vielleicht steht es etwas schräg dazu.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;@ReisAgainst&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Find das sehr passend.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jul 2016 00:19:00 +0200</pubDate>
+        <link>http://reis.space/jekyll/update/2016/07/01/nachbesprechung-kompensation.html</link>
+        <guid isPermaLink="true">http://reis.space/jekyll/update/2016/07/01/nachbesprechung-kompensation.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Kompensation und poetisches Lesen</title>
+        <description>&lt;p&gt;Kompensation bezeichnet Verringerung einer Funktionsfähigkeit und dann Zugewinn innerhalb desselben
+funktionellen Rahmens. Funktion ist eine Regel für Vergleichbarkeit, im Fall der Kompensation in einem zeitlich Rahmen eines vorher/nachher, und zwar folgendermaßen:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ein Leistungsverlust wird von einem System durch erhöhte Aktivität ausgeglichen (zB. eines Organs) - nennen wir das &lt;em&gt;primitive Kompensation&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Eine Funktion, die bisher auf primitivere Weise gelöst wurde, wird nun durch Auslagerung scheinbar aufgegeben und in komplexerer Weise erfüllt.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kommunikationsmedien in der herkömmlichen Bedeutung als Medien der Kommunikationsermöglichung oder -erleichterung kann man als technikgestützte Praktiken der Kommunikation zwischen Menschen definieren, die einerseits die Funktionen und Leistungen der face-to-face-Kommunikation beschneiden, sie andererseits aber auch erhöhen (z. B. bzgl. der räumlichen Reichweite, der Verbreitungspotenz oder ihrer Langlebigkeit). Beides kann pathologische oder auch nur sozial dysfunktionale Folgen haben, die durch medienspezifische Verhaltensnormen oder -regelmäßigkeiten kompensiert werden können.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.latent.de/Worte/Kommunikationspathologien.html&quot;&gt;Latent.de - Kommunikationspathologien im Internet&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Kompensation gleicht hier der Überaktivität eines Organs wegen verminderter Leistungsfähigkeit. Das wäre das Hypertrophieren von Kommunikationsfiguren, die sich als der Face-to-Face-Interaktion typisch herausstellen. Da die Reaktion der alten Routine folgt, ist das eine primitive Kompensation.&lt;/p&gt;
+
+&lt;p&gt;Kompensation durch Überaktivität ist auch was gemeint ist, wenn alltagspsychologisch vom “Kompensieren” die Rede ist (Jemand kompensiere beispielsweise Größe durch Geltungsbedürfnis).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Die Beschränkung der Leistungen von Kommunikation durch Kommunikationsmedien besteht darin, daß sie einige oder mehrere der zu der ursprünglichen oder Grundform der Kommunikation zwischen räumlich Anwesenden (“face-to-face”) gehörenden Kommunikationskanäle nicht mit abbildet und blockiert. Dadurch wird Kommunikation nicht unmöglich, sie verändert sich jedoch. Diese Grundform der Kommunikation besteht nicht nur aus einer sprachlich kodierten und durch Sprache transportierten Information und zugleich ausgedrückten Neben oder Metabotschaften durch z. B. den Tonfall oder der Signalisierung eigentlicher Mitteilungsabsichten, sondern ist ein komplexes Wechselspiel, das während jedes einzelnen Kommunikationsaktes Rückkopplungen zuläßt - seien dies das Mienenspiel des anderen, körperliche, etwas bestimmtes symbolisierende Reaktionen wie z. B. tiefes Luftholen, sei es das Angucken oder Weggucken (also die beobachtbare Aufmerksamkeit) oder andere, wie es heißt, nonverbale Kommunikationsinhalte. Durch alle diese Rückbotschaften wird das zu Kommunizierende permanent beeinflußt und angepaßt, und zwar währenddessen und nicht in einem Wechselspiel aneinander anschließender Kommunikationsakte.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Diese “Grundform der Kommunikation” ist die Erfindung eines natürlichen Modus, der durch neue Kommunikationsmedien an Leistungsfähigkeit verliere. Negativ definiert besteht kein großer Unterschied zwischen Brief, Telefonieren und Internetkommunikation, da alle gleichsam der Face-to-Face-Interaktion gegenüber defizitär sind. Dabei gehören zur Qualität der Interaktion ebenfalls die Fortsetzungsbedingungen. Im Internet ist nämlich nicht nur der Kontakt mit Unbekannten (Ähnlich Klingelstreichen, nach der Uhrzeit fragen, …), sondern Verwicklung in &lt;a href=&quot;https://twitter.com/hashtag/kzu&quot;&gt;Kommunikation zwischen Unbekannten&lt;/a&gt; zu beobachten.&lt;/p&gt;
+
+&lt;p&gt;Hier gilt nicht das selbe wie beispielsweise bei einer Telefonbefragung: Eine “anonyme” Befragung kann sich dann doch auf die Zurechenbarkeit auf Haushalte verlassen und einen verlässlichen Datensatz  generieren. Anonymisierung ist dann eine zusätzliche Leistung, die am Telefon zugesprochen werden muss. Darauf muss sich dann seitens des Befragten verlassen werden, bei begrenzter Rückverfolgbarkeit. Anders bei Facebook, wo vergebens versucht wird, Accounts auf “natürliche Personen” zurückzuverfolgen, geschweige denn Twitter, Reddit, 4chan.&lt;/p&gt;
+
+&lt;p&gt;Kompensation bei Kommunikationsmedien ist nicht mithilfe derselben Technik wieder auf ihre primitiven Anfänge zurückführbar. Wir kommen auch mit Videotelefonie und Sprachsteuerung nicht zurück. Die Möglichkeit, instantan Text zu versenden, hat nicht bloß dazu geführt, vorher selbstverständliches primitiv zu kompensieren, sie selbst ermöglicht eine Kompensationsleistung in der Kommunikation - die wieder selbstverständlich werden konnte. Das Kurzzeitgedächtnis, das face to face für das Aufrechterhalten des Themas in der Interaktion zuständig war, wird frei, wenn es im Text nachvollziehbar ist und nicht verloren geht, sobald es nicht vom Bewusstsein erinnert werden kann. Jedes Niederschreiben ist ein Auslagern von Gedächtnis. Mit der Beschleunigung und Flexibilisierung von Nachrichtenübermittlung im Internet wird diese Leistung schneller und flexibler. Das führt zu eigenen Textformen, wie jetzt schon bei der Verwendung von Instant-Messengern beobachtbar: Der &lt;em&gt;Mehrthemenchat&lt;/em&gt;. Mehrere Themen werden in eigenen kurzen Nachrichten oder Absätzen behandelt. Das ist das Merkmal einer Textform, die beim Brief, dessen technischer Aufwand die strenge Trennung von Sender und Empfänger in unterschiedliche Situationen erzwingt, nicht entstanden ist.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Es empfiehlt sich, zwischen poetischen Texten, narrativen Texten und wissenschaftlichen Texten zu unterscheiden. […] Im Falle von narrativen Texten ergibt sich der Textzusammenhang aus der Spannung, also aus dem Unbekanntsein der Zukunft, die der Leser vor sich herschiebt; aber auch rückwärtsgerichtet daraus, daß die Auflösung der Spannung, wie Jean Paul notiert hat, auf die bereits gelesenen Teile des Textes zurückgreifen muss. […] Ganz andere Anforderungen stellt die Lektüre von Gedichten. Sie bieten keineswegs Erzählungen in Versform und können auch nicht linear Zeile für Zeile von Anfang bis Ende gelesen werden. Hier kommt es auf klangliche Elemente, Ungewöhnlichkeit der Wortwahl (gerade auch bei normalen Worten), Erkenen von Gegenbedeutungen und Kontrasten vor allem auf Rhythmik als Garant für eine untersinnig mitlaufende Einheit an. Die Lektüre erfordert ein aufmerksames Kurzzeitgedächtnis und vielschichtige Rekursionen, die sich nicht darauf verlassen können, daß das, was gemeint ist, auch gesagt wird.&lt;/p&gt;
+
+  &lt;p&gt;Luhmann, Niklas (2008): Lesen lernen, in: Niklas Luhmann: Schriften zu Kunst und Literatur, zuerst erschienen in Luhmann, Niklas (2000): Short cuts&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gerade die herausfordernde Textart Lyrik ist sehr vorraussetzungsreich. Verlag und Autor als Adresse erzeugen Vertrauen: dass “etwas dahintersteckt”, und Unverständlichkeit kein Versehen ist.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Auch Wissenschaftler müssen, wenn sie publizieren wollen, Sätze bilden. In der dafür notwendigen Wortwahl herrscht jedoch ein für die meisten Leser unvorstellbares Maß an Zufall. Auch die Wissenschaftler selbst machen sich dies selten klar. Der weitaus größte Teil der Texte könnte auch anders formuliert sein und wäre auch anders formuliert, wenn er am nächsten Tag geschrieben worden wäre.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Je mehr geschrieben wird und je unübersichtlicher die Adressen werden, desto aufdringlicher wird die Kontingenz des Geschriebenen&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dies könnte ein Anlaß sein, daran zu erinnern, daß die Textsortendifferenzierung, mit Hinweis auf die wir unsere Überlegungen eingeleitet hatten, überhaupt erst im 18. Jahrhundert entstanden ist. Das gilt für den modernen Roman, für anspruchsvolle (fast könnte man sagen: multimediale) Lyrik, aber auch für die wissenschaftliche Publizistik. Offenbar hat diese Differenzierung in allen ihren Bereichen sich vom Buchdruck faszinieren lassen. Es könnte sein, daß wir jetzt, besonders angesichts der Möglichkeiten, die der Computer bietet, wieder mehr auf die Eigenleistungen des Schreibens zurückkommen müssen&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Die poetische Lesart unter Mitbeachtung der Zufälligkeit des eigenen Schreibens ist nun möglich und häufig. Ein Beispiel dafür ist der Umgang mit Chatbots als &lt;a href=&quot;https://differentia.wordpress.com/2013/12/07/eine-bemerkung-zu-parasozialer-interaktion-thorstena_bln-siggibecker/&quot;&gt;parasoziale Interaktion&lt;/a&gt;, siehe auch &lt;a href=&quot;http://www.reis.space/jekyll/update/2016/06/28/der-morgen-danach.html&quot;&gt; hier &lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;Leserinnen konzeptueller Lyrik sind die Avantgarde der Netz-Kommunikation. &lt;a href=&quot;https://t.co/BhEk7iI6ZY&quot;&gt;https://t.co/BhEk7iI6ZY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Christina Dongowski (@TiniDo) &lt;a href=&quot;https://twitter.com/TiniDo/status/748140954264215552&quot;&gt;June 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Weiter bei &lt;a href=&quot;http://www.mulus.science/2015/07/10/Unspezifitat-und-Risiko-komplexer-Kompensation.html&quot;&gt;SCIENTIÆ MULORUM: Unspezifität und Risiko komplexer Kompensation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Weiter bei &lt;a href=&quot;http://www.reis.space/jekyll/update/2016/08/09/VR.html&quot;&gt;Critical Otter Studies: Virtual Reality - Was hinter dem Bildschirm wartet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;oder&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.reis.space/jekyll/update/2016/06/30/nachbesprechung-kompensation.html&quot;&gt;Critical Otter Studies: Nachbesprechung. Kompensation und poetisches Lesen&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Jun 2016 09:17:00 +0200</pubDate>
+        <link>http://reis.space/jekyll/update/2016/06/30/kompensation.html</link>
+        <guid isPermaLink="true">http://reis.space/jekyll/update/2016/06/30/kompensation.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Der Morgen danach: KmU #18</title>
+        <description>&lt;div class=&quot;storify&quot;&gt;&lt;iframe src=&quot;//storify.com/ReisAgainst/kmu-18-aftermath/embed?border=false&quot; width=&quot;100%&quot; height=&quot;750&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;script src=&quot;//storify.com/ReisAgainst/kmu-18-aftermath.js?border=false&quot;&gt;&lt;/script&gt;&lt;noscript&gt;[&lt;a href=&quot;//storify.com/ReisAgainst/kmu-18-aftermath&quot; target=&quot;_blank&quot;&gt;KmU #18 Aftermath&lt;/a&gt;]&lt;/noscript&gt;&lt;/div&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 23:11:00 +0200</pubDate>
+        <link>http://reis.space/jekyll/update/2016/06/28/der-morgen-danach.html</link>
+        <guid isPermaLink="true">http://reis.space/jekyll/update/2016/06/28/der-morgen-danach.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Kommunikation mit Unbekannten #18</title>
+        <description>&lt;p&gt;Wissenschaft, Slavoj Zizek automatisieren, Wombats kacken Würfel und Game of Thrones mit &lt;a href=&quot;http://twitter.com/sozialwelten&quot; title=&quot;sozialwelten&quot;&gt; @sozialwelten &lt;/a&gt; und mir:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271062364&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 14:26:00 +0200</pubDate>
+        <link>http://reis.space/jekyll/update/2016/06/28/podcast.html</link>
+        <guid isPermaLink="true">http://reis.space/jekyll/update/2016/06/28/podcast.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>riverrun</title>
+        <description>&lt;p&gt;riverrun, past Eve and Adam’s, from swerve of shore to bend
+of bay, brings us by a commodius vicus of recirculation back to
+Howth Castle and Environs.
+ Sir Tristram, violer d’amores, fr’over the short sea, had passen-
+core rearrived from North Armorica on this side the scraggy
+isthmus of Europe Minor to wielderfight his penisolate war: nor
+had topsawyer’s rocks by the stream Oconee exaggerated themselse
+to Laurens County’s gorgios while they went doublin their mumper
+all the time: nor avoice from afire bellowsed mishe mishe to
+tauftauf thuartpeatrick: not yet, though venissoon after, had a
+kidscad buttended a bland old isaac: not yet, though all’s fair in
+vanessy, were sosie sesthers wroth with twone nathandjoe. Rot a
+peck of pa’s malt had Jhem or Shen brewed by arclight and rory
+end to the regginbrow was to be seen ringsome on the aquaface.
+ The fall (bababadalgharaghtakamminarronnkonnbronntonner-
+ronntuonnthunntrovarrhounawnskawntoohoohoordenenthur-
+nuk!) of a once wallstrait oldparr is retaled early in bed and later
+on life down through all christian minstrelsy. The great fall of the
+offwall entailed at such short notice the pftjschute of Finnegan,
+erse solid man, that the humptyhillhead of humself prumptly sends
+an unquiring one well to the west in quest of his tumptytumtoes:
+and their upturnpikepointandplace is at the knock out in the park
+where oranges have been laid to rust upon the green since dev-
+linsfirst loved livvy.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Jun 2016 13:13:22 +0200</pubDate>
+        <link>http://reis.space/jekyll/update/2016/06/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://reis.space/jekyll/update/2016/06/23/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
