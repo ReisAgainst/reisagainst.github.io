@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kybernetik und ganze Menschen"
-date:   2018-05-18 19:00:00 
+date:   2018-05-18 19:00:00 +0000
 categories: jekyll update
 ---
 
