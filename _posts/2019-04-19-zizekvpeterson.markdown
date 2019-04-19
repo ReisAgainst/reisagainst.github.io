@@ -4,6 +4,9 @@ title:  "Zizek v Peterson: Maybe free speech isn't that big a deal?"
 date:   2019-04-19 11:45:00 +0000
 categories: jekyll update
 ---
+
+![](https://i.imgur.com/1mwES39.jpg)
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Im the only man here who injects himself with a CIA Grade Truth Serum before each and every post i make. Remember only that</p>&mdash; wint (@dril) <a href="https://twitter.com/dril/status/1118060586682576898?ref_src=twsrc%5Etfw">April 16, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
